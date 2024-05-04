@@ -1,4 +1,3 @@
-#create snake game in python
 import turtle
 import random
 import time
@@ -10,10 +9,6 @@ screen.title('Snake Game')
 screen.setup(600,600, startx=0,starty=100)
 screen.tracer(0)
 turtle.bgcolor('orange')
-
-
-
-##creating a border for our game
 
 turtle.speed(5)
 turtle.pensize(4)
